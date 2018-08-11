@@ -20,6 +20,7 @@
     "lodash": "^4.17.10",
     "package.json": "^2.0.1",
     "react": "^0.13.3",
-    "react-router": "^0.13.3"
+    "react-router": "^0.13.3",
+    "toastr": "^2.1.0"
   }
 }
